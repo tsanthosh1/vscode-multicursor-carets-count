@@ -5,7 +5,7 @@
   "publisher": "tsanthosh",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/caret-counter"
+    "url": "https://github.com/tsanthosh1/vscode-multicursor-carets-count"
   },
   "engines": {
     "vscode": "^1.74.0"
